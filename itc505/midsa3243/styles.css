@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    background-color: purple;
+}
+
+#game-setup p {
+    color: yellow;
+}
+
+button {
+    font-size: 16px;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.choices button {
+    background-color: red;
+    color: white;
+}
+
+.story {
+    margin: 20px;
+}
+
+#story-text {
+    font-size: 18px;
+    color: blue;
+}
+
+#story-image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px;
+}
